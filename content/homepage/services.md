@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Servicios"
 weight: 2
 header_menu: true
 ---
@@ -8,27 +8,28 @@ That is the important part, right? You want to know what I can do for you. This 
 
 ---
 
-## Nutrition Coaching
+## Ceremonias de Ayahuasca
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Atrévete a vivir esta maravillosa experiencia que te ayudará a sanar y liberar emociones, elevar tu sistema inmunológico, conectar con tu espiritualidad y alinear tu campos energéticos.
 
-![Nice picture to make you pay me ;-)](images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+![Preparaciones](images/ceremonia.jpeg)
 
-Wow. That was nice, right? Well, call me and let us talk.
+Conocerte es la forma de magia más apasionante.
 
 ---
 
-## Chef Consulting
+## Terapia Personalizada con Enteógenos
 
-Did you see the picture above? I can show you how to go from
+Si tienes problemas que una ceremonia no puede abordar, te incomodan los grupos numerosos o tomas medicamentos que no te permiten usar la ayahuasca, eso tambien tiene solución.
 
-![Let us get started on a clean slate](images/board-bunch-cooking-food-349609.jpg)
 
-to
+![Let us get started on a clean slate](images/terapia.jpg)
 
-![Let us get started on a clean slate](images/woman-pouring-juice-on-glass-3184192.jpg)
+La ayahuasca es una de muchas sustancias que te permiten conectar con tu interior, pero la quimica y la mente de cada cuerpo es diferente, en nuestro equipo contamos con quimicos y terapeutas con mas de 10 años de experiencia que te guiaran y ofreceran lo mejor para tu sanación.
 
-in estimated seconds.
+![Let us get started on a clean slate](images/terapia2.jpg)
+
+No dejes pasar esta oportunidad y contactanos.
 
 ---
 
