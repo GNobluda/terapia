@@ -14,6 +14,8 @@ Atrévete a vivir esta maravillosa experiencia que te ayudará a sanar y liberar
 
 ![Preparaciones](images/ceremonia.jpeg)
 
+Tenemos encuentros y retiros en CDMX, Cancun, Chiapas, Queretaro, Estado de Mexico, Morelos y mas.
+
 Conocerte es la forma de magia más apasionante.
 
 ---
@@ -29,7 +31,8 @@ La ayahuasca es una de muchas sustancias que te permiten conectar con tu interio
 
 ![Let us get started on a clean slate](images/terapia2.jpg)
 
-No dejes pasar esta oportunidad y contactanos.
+Tratamientos para adicciones, depresión, ansiedad y mas, guiados por Psicologos especialistas.
+
 
 ---
 
