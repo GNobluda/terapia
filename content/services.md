@@ -1,5 +1,5 @@
 ---
-title: "Services"
+title: "Servicios"
 ---
 
 This is a page about the services, which I offer.
@@ -12,13 +12,24 @@ Well, let me tell ya!
 
 ---
 
-## Nutrition Coaching
+## Ceremonias de Ayahuasca
 
-This is not an easy task. You will likely have to pay money for this. You know what - let us look at a nice picture first.
+Atrévete a vivir esta maravillosa experiencia que te ayudará a sanar y liberar emociones, elevar tu sistema inmunológico, conectar con tu espiritualidad y alinear tu campos energéticos.
 
-![Nice picture to make you pay me ;-)](../images/selective-focus-photography-of-pasta-with-tomato-and-basil-1279330.jpg)
+💚 Beneficios:
+🌟Crecimiento personal.
+🌟Liberación del estrés.
+🌟Liberación de ansiedad y depresión.
+🌟Liberación de miedos.
+🌟Fortalecimiento de amor propio. 
+🌟Ayuda a combatir enfermedades físicas y psicológicas.
+🌟Reconocimiento sobre uno mismo.
+🌟Entre otros beneficios más. 
 
-Wow. That was nice, right? Well, call me and let us talk.
+![Preparaciones](images/ceremonia.jpeg)
+
+✋Detente, medita, respira profundo y siente la conexión con todo lo creado, no es casualidad que esta experiencia se haya presentado ante ti.
+Conocerte es la forma de magia más apasionante.
 
 ---
 
