@@ -10,4 +10,3 @@ header_menu: true
 
 {{<icon class="fa fa-whatsapp">}}&nbsp;[Click aqui para conversar](https://wa.me/5215537517411)
 
-Let us get in touch!
