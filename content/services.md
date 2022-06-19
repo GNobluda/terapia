@@ -2,14 +2,6 @@
 title: "Servicios"
 ---
 
-This is a page about the services, which I offer.
-
-It carries a lot more detail than what I put on the homepage - I swear!
-
-You want to know what I can do for you?
-
-Well, let me tell ya!
-
 ---
 
 ## Ceremonias de Ayahuasca
@@ -17,30 +9,34 @@ Well, let me tell ya!
 Atrévete a vivir esta maravillosa experiencia que te ayudará a sanar y liberar emociones, elevar tu sistema inmunológico, conectar con tu espiritualidad y alinear tu campos energéticos.
 
 💚 Beneficios:
-🌟Crecimiento personal.
-🌟Liberación del estrés.
-🌟Liberación de ansiedad y depresión.
-🌟Liberación de miedos.
-🌟Fortalecimiento de amor propio. 
-🌟Ayuda a combatir enfermedades físicas y psicológicas.
-🌟Reconocimiento sobre uno mismo.
-🌟Entre otros beneficios más. 
-
-![Preparaciones](images/ceremonia.jpeg)
+- 🌟Crecimiento personal.
+- 🌟Liberación del estrés.
+- 🌟Liberación de miedos.
+- 🌟Fortalecimiento de amor propio. 
+- 🌟Ayuda a combatir enfermedades físicas y psicológicas.
+- 🌟Reconocimiento sobre uno mismo.
+- 🌟Entre otros beneficios más. 
 
 ✋Detente, medita, respira profundo y siente la conexión con todo lo creado, no es casualidad que esta experiencia se haya presentado ante ti.
-Conocerte es la forma de magia más apasionante.
+
+Tenemos encuentros y retiros en CDMX, Cancun, Chiapas, Queretaro, Estado de Mexico, Morelos y mas, pide [Aqui](https://wa.me/5215537517411) fechas y costos del sitio que prefieras
 
 ---
 
-## Chef Consulting
+## Terapia Personalizada con Enteógenos
 
-Did you see the picture above? I can show you how to go from
+Si tienes problemas que una ceremonia no puede abordar, te incomodan los grupos numerosos o tomas medicamentos que no te permiten usar la ayahuasca, eso tambien tiene solución.
 
-![Let us get started on a clean slate](../images/board-bunch-cooking-food-349609.jpg)
+Estos son tratamientos Psicologicos realizados por Psicologos especialistas, una atencion personalizada para el tratamiento de adicciones, Depresión, Ansiedad y muchos problemas mas que un Chaman no puede solucionar. 
 
-to
+Contamos con preparaciones medicinales de:
+- Rape 👃🏻
+- Sananga 👁️
+- Chilcahue 👄
+- Kambo 🐸
+- Bufo alvarius 🐸
+- Xanga 🌈
+- Ayahuasca 🥃
+- DMT 🌈
 
-![Let us get started on a clean slate](../images/woman-pouring-juice-on-glass-3184192.jpg)
-
-in estimated seconds.
+Atendemos en CDMX, Estado de Mexico, Queretaro, Pachuca y Morelos, pide [Aqui tu cita](https://wa.me/5215537517411)
