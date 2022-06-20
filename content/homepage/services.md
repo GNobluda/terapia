@@ -36,6 +36,6 @@ Tratamientos para adicciones, depresión, ansiedad y mas, guiados por Psicologos
 
 ---
 
-Want to learn more about my services?
+¿Quieres saber mas sobre nuestros servicios?
 
-Check out [this page](services) I created. It carries a lot more details...
+[Da click aqui](services) 

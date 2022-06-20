@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-Somos un Equipo liderado por la Quimica y Etnobotánica Laura Schultz egresada de la Universidad Autonoma del Peru, se formo como Guia y facilitadora con los pueblos que originaron la preparación que conocemos hoy en dia como Ayahuasca.
+Somos un Equipo encabezado por la Quimica y Etnobotánica Laura Schultz egresada de la Universidad Autonoma del Peru, se formo como Guia y facilitadora con los pueblos que originaron la preparación que conocemos hoy en dia como Ayahuasca.
 
 ![Laura Schultz](images/laura.jpg)
 

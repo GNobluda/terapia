@@ -17,8 +17,6 @@ Atrévete a vivir esta maravillosa experiencia que te ayudará a sanar y liberar
 - 🌟Reconocimiento sobre uno mismo.
 - 🌟Entre otros beneficios más. 
 
-✋Detente, medita, respira profundo y siente la conexión con todo lo creado, no es casualidad que esta experiencia se haya presentado ante ti.
-
 Tenemos encuentros y retiros en CDMX, Cancun, Chiapas, Queretaro, Estado de Mexico, Morelos y mas, pide [Aqui](https://wa.me/5215537517411) fechas y costos del sitio que prefieras
 
 ---
